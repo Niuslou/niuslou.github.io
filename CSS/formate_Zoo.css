@@ -6,3 +6,21 @@
 #test1 {
     row-gap: 12;
 }
+
+#st {
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    height:7cm;
+    margin-left: 2.3cm;
+    width: 10cm;
+}
+
+#mit {
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    height:7cm;
+    margin-left: 2.3cm;
+    width: 10cm;
+}
