@@ -24,3 +24,30 @@
     margin-left: 2.3cm;
     width: 10cm;
 }
+
+#gift {
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    height:4cm;
+    margin-left: 1cm;
+    width: 5cm;
+}
+
+#lebensraum {
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    height:4cm;
+    margin-left: 1cm;
+    width: 5cm;
+}
+
+#groesse {
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    height:4cm;
+    margin-left: 1cm;
+    width: 5cm;
+}
